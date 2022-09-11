@@ -1,0 +1,24 @@
+#mood-indicator{
+    height: 300px;
+    width: 300px;
+}
+.mode1{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(238, 241, 0);
+  }
+  .mode2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(19, 0, 164);
+  }
+  .mode3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(35, 177, 0);
+  }
+  .mode4{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(255, 0, 66);
+  }
